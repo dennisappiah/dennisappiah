@@ -1,7 +1,7 @@
 <img src="https://github.com/dennisappiahALX/dennisappiahALX/blob/master/banner.png" />
 
-My name is [Dennis](https://linktr.ee/dennisappiah). I am a tech polymath, researcher, and engineer with an interest in data science, software engineering, artificial intelligence, distributed systems, and software testing. 
-Writes technical articles in Hashnode ([@dennisappiah](https://hashnode.com/@dennisappiah)) and non-technical articles in Medium ([@dennisappiah](https://medium.com/@dennisappiah)). <br/> Ask me anything [here](https://github.com/dennisappiahALX/dennisappiahALX/issues?q=is%3Aissue+is%3Aopen).
+My name is [Dennis](https://linktr.ee/dennisappiah). I am a tech polymath, researcher, and engineer with an interest in data science, software engineering, distributed systems, and software testing. 
+Writes technical articles in Hashnode ([@dennisappiah](https://hashnode.com/@dennisappiah)) and non-technical articles in Medium ([@dennisappiah](https://medium.com/@dennisappiah)).  Ask me anything [here](https://github.com/dennisappiahALX/dennisappiahALX/issues?q=is%3Aissue+is%3Aopen).
 
 <div align="center">
 <p>
