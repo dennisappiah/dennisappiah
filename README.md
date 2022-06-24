@@ -1,7 +1,7 @@
 <img src="https://github.com/dennisappiahALX/dennisappiahALX/blob/master/banner.png" />
 
 My name is [Dennis](https://linktr.ee/dennisappiah). I am a tech polymath, researcher, and engineer with an interest in data science, software engineering, artificial intelligence, distributed systems, and software testing. 
-I have hands on experience with  data science research, graph database modelling and algorithms, Python 3, Pandas, Jupyter, Sci-Kit, Django, Flask,React, Hadoop, Map Reduce, and distributed system modelling. Writes technical articles in Hashnode ([@dennisappiah](https://hashnode.com/@dennisappiah)) and non-technical articles in Medium ([@dennisappiah](https://medium.com/@dennisappiah)). <br/>
+Writes technical articles in Hashnode ([@dennisappiah](https://hashnode.com/@dennisappiah)) and non-technical articles in Medium ([@dennisappiah](https://medium.com/@dennisappiah)). <br/>
 Ask me anything [here](https://github.com/dennisappiahALX/dennisappiahALX/issues?q=is%3Aissue+is%3Aopen).
 
 <div align="center">
