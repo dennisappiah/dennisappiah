@@ -15,7 +15,7 @@ I analyse, build, and deploy machine learning systems.
 * [The SMART Framework of Goal Setting — Data Analysis](https://medium.com/@dennisappiah/the-smart-framework-of-goal-setting-data-analysis-d323fed6a718) - Thur, 23 Jun 2022
 * [Version Control With Git :A Deep Dive - Part I](https://medium.com/@dennisappiah/version-control-with-git-a-deep-dive-part-i-c8d16112946b) - Tue, 21 June 2022
 
-View the archives (0 posts)@ [dennisappiah.com](https://medium.com/@dennisappiah/version-control-with-git-a-deep-dive-part-i-c8d16112946b)
+View the archives (0 posts)@ [dennisappiah.com](https://medium.com/@dennisappiah)
 <!-- writing ends -->
 
 ---
