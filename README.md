@@ -1,33 +1,22 @@
-<img src="https://github.com/dennisappiahALX/dennisappiahALX/blob/master/banner.png" />
+### 👋 Hi, I'm Dennis Appiah
 
-My name is [Dennis](https://linktr.ee/dennisappiah). I am a tech polymath, researcher, and engineer with an interest in data science, software engineering, distributed systems, and software testing. 
-Writes technical articles in Hashnode ([@dennisappiah](https://hashnode.com/@dennisappiah)) and non-technical articles in Medium ([@dennisappiah](https://medium.com/@dennisappiah)).  Ask me anything [here](https://github.com/dennisappiahALX/dennisappiahALX/issues?q=is%3Aissue+is%3Aopen).
+I analyse, build, and deploy machine learning systems.
 
-<div align="center">
-<p>
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img alt="POSTGRESQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
+- 📝 [Write](https://medium.com/@dennisappiah) about effective data science, data/ML systems, and software engineering.
+- 🧠 [Storytelling](https://public.tableau.com/app/profile/dennis.appiah#!/?newProfile=&activeTab=0) Analyse, and build data storytelling dashboard using Tableau.
+- 🌱 I'm currently learning Data Structures and Algorithms with C, ML Deployment with Django, and Flask.
+- 💞️ I’m looking to collaborate on Machine Learning & Data Science projects.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=dennisappiahALX&show_icons=true&theme=jolly&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennisappiahALX&langs_count=8&theme=jolly&layout=compact" />
-</a>
 
-<p> 
-  <a href="https://twitter.com/kofi_tech" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/dennisappiah" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://medium.com/@dennisappiah" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
-</div>
+### 📝 Recent Writing
 
+<!-- writing starts -->
+* [Version Control With Git :A Deep Dive - Part II](https://medium.com/@dennisappiah/version-control-with-git-a-deep-dive-part-ii-35c0fe354e3d) - Thur, 30 Jun 2022
+* [The SMART Framework of Goal Setting — Data Analysis](https://medium.com/@dennisappiah/the-smart-framework-of-goal-setting-data-analysis-d323fed6a718) - Thur, 23 Jun 2022
+* [Version Control With Git :A Deep Dive - Part I](https://medium.com/@dennisappiah/version-control-with-git-a-deep-dive-part-i-c8d16112946b) - Tue, 21 June 2022
+
+View the archives (0 posts)@ [dennisappiah](https://medium.com/@dennisappiah/version-control-with-git-a-deep-dive-part-i-c8d16112946b)
+<!-- writing ends -->
+
+---
+[![Twitter Follow](https://img.shields.io/twitter/follow/kofi_tech?label=Follow&style=social)](https://twitter.com/kofi_tech) ![Profile Views](https://gpvc.arturio.dev/dennisappiahALX)
