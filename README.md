@@ -3,7 +3,7 @@
 I analyse, build, and deploy machine learning systems.
 
 - 📝 [Write](https://medium.com/@dennisappiah) about effective data science, data/ML systems, and software engineering.
-- 🧠 [Storytelling](https://public.tableau.com/app/profile/dennis.appiah#!/?newProfile=&activeTab=0) Analyse, and build data storytelling dashboard using Tableau.
+- 🧠 [Storytelling](https://public.tableau.com/app/profile/dennis.appiah#!/?newProfile=&activeTab=0) - Analyse, and build data storytelling dashboards using Tableau.
 - 🌱 I'm currently learning Data Structures and Algorithms with C, ML Deployment with Django, and Flask.
 - 💞️ I’m looking to collaborate on Machine Learning & Data Science projects.
 
