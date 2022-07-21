@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Dennis Appiah
 
-I gather data, prepare, analyse, build, and deploy machine learning systems.
+I prepare data, analyse, build, and deploy machine learning systems.
 
 - 📝 [Write](https://medium.com/@dennisappiah) about effective data science, data/ML systems, and software engineering.
 - 🧠 [Storytelling](https://public.tableau.com/app/profile/dennis.appiah#!/?newProfile=&activeTab=0) - Analyse data, and build data storytelling dashboards using Tableau.
