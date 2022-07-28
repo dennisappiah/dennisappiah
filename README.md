@@ -17,9 +17,6 @@ I prepare data, analyse, build, and deploy machine learning systems.
 
 View the archives (0 posts)@ [medium.com/@dennisappiah](https://medium.com/@dennisappiah)
 <!-- writing ends -->
-
----
-[![Twitter Follow](https://img.shields.io/twitter/follow/kofi_tech?label=Follow&style=social)](https://twitter.com/kofi_tech) ![Profile Views](https://gpvc.arturio.dev/dennisappiahALX)
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -31,3 +28,6 @@ View the archives (0 posts)@ [medium.com/@dennisappiah](https://medium.com/@denn
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+---
+[![Twitter Follow](https://img.shields.io/twitter/follow/kofi_tech?label=Follow&style=social)](https://twitter.com/kofi_tech) ![Profile Views](https://gpvc.arturio.dev/dennisappiahALX)
+
