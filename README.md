@@ -11,11 +11,11 @@ I build and deploy software applications, and machine learning systems.
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [Creating Virtual Environments in Python](https://medium.com/p/257ec7e7f434) - Fri, 05 Aug 2022
 * [Version Control With Git :A Deep Dive - Part II](https://medium.com/@dennisappiah/version-control-with-git-a-deep-dive-part-ii-35c0fe354e3d) - Thur, 30 Jun 2022
 * [The SMART Framework of Goal Setting — Data Analysis](https://medium.com/@dennisappiah/the-smart-framework-of-goal-setting-data-analysis-d323fed6a718) - Thur, 23 Jun 2022
-* [Version Control With Git :A Deep Dive - Part I](https://medium.com/@dennisappiah/version-control-with-git-a-deep-dive-part-i-c8d16112946b) - Tue, 21 June 2022
 
-View the archives (0 posts)@ [medium.com/@dennisappiah](https://medium.com/@dennisappiah)
+View the archives (1 post)@ [medium.com/@dennisappiah](https://medium.com/@dennisappiah)
 
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
