@@ -33,5 +33,5 @@ View the archives (1 post)@ [medium.com/@dennisappiah](https://medium.com/@denni
 
 <!-- writing ends -->
 ---
-[![Twitter Follow](https://img.shields.io/twitter/follow/kofi_tech?label=Follow&style=social)](https://twitter.com/kofi_tech) ![Profile Views](https://gpvc.arturio.dev/dennisappiahALX)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dennisappiah?label=Follow&style=social)](https://twitter.com/kofi_tech) ![Profile Views](https://gpvc.arturio.dev/dennisappiahALX)
 
