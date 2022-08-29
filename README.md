@@ -11,6 +11,7 @@ I build and deploy database applications, and machine learning systems.
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [Key Players in Data Ecosystem](https://medium.com/@dennisappiah/key-players-in-data-ecosystem-e6dc574004b) - Saturday, 27 Aug 2022
 * [Principles for Organizing API Endpoints](https://medium.com/@dennisappiah/principles-for-organizing-api-endpoints-895b6e5efe3) - Wed, 17 Aug 2022
 * [Creating Virtual Environments in Python](https://medium.com/p/257ec7e7f434) - Fri, 05 Aug 2022
 * [Version Control With Git :A Deep Dive - Part II](https://medium.com/@dennisappiah/version-control-with-git-a-deep-dive-part-ii-35c0fe354e3d) - Thur, 30 Jun 2022
