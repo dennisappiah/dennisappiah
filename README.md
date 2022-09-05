@@ -31,6 +31,13 @@ View the archives (2 post)@ [medium.com/@dennisappiah](https://medium.com/@denni
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
 </p>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=dennisappiahALX&show_icons=true&theme=jolly&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennisappiahALX&langs_count=8&theme=jolly&layout=compact" />
+</a>
+
 <!-- writing ends -->
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/dennisapiah?label=Follow&style=social)](https://twitter.com/kofi_tech) ![Profile Views](https://gpvc.arturio.dev/dennisappiahALX)
