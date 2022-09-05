@@ -15,7 +15,7 @@ I design, build and deploy backend applications, and machine learning systems.
 * [Principles for Organizing API Endpoints](https://medium.com/@dennisappiah/principles-for-organizing-api-endpoints-895b6e5efe3) - Wed, 17 Aug 2022
 * [Creating Virtual Environments in Python](https://medium.com/p/257ec7e7f434) - Fri, 05 Aug 2022
 
-View the archives (3 post)@ [medium.com/@dennisappiah](https://medium.com/@dennisappiah)
+View the archives (3 posts)@ [medium.com/@dennisappiah](https://medium.com/@dennisappiah)
 
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
