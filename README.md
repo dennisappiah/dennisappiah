@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Dennis Appiah
 
-I design, build and deploy backend applications, and machine learning systems for customer use cases
+I design, build and deploy backend applications, and machine learning systems for customer use cases.
 
 - 📝 [Write](https://medium.com/@dennisappiah) about effective data science, data/ML systems, and software engineering.
 - 🧠 [Storytelling](https://public.tableau.com/app/profile/dennis.appiah#!/?newProfile=&activeTab=0) - Analyse data, and build data storytelling dashboards using Tableau.
