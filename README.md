@@ -33,7 +33,7 @@ View the archives (3 posts)@ [medium.com/@dennisappiah](https://medium.com/@denn
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dennisappiahALX&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennisappiahALX&exclude_repo=K
+</p>
 
 <!-- writing ends -->
 ---
