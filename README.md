@@ -31,12 +31,9 @@ View the archives (3 posts)@ [medium.com/@dennisappiah](https://medium.com/@denn
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=dennisappiahALX&show_icons=true&theme=radical&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennisappiahALX&langs_count=8&theme=radical&layout=compact" />
-</a>
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dennisappiahALX&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennisappiahALX&exclude_repo=K
 
 <!-- writing ends -->
 ---
