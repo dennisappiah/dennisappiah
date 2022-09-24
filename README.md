@@ -36,5 +36,5 @@ View the archives (3 posts)@ [medium.com/@dennisappiah](https://medium.com/@denn
 
 <!-- writing ends -->
 ---
-[![Twitter Follow](https://img.shields.io/twitter/follow/dennisapiah?label=Follow&style=social)](https://twitter.com/kofi_tech) ![Profile Views](https://gpvc.arturio.dev/dennisappiahALX) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dennisappiah)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dennisapiah?label=Follow&style=social)](https://twitter.com/kofi_tech)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dennisappiah) ![Profile Views](https://gpvc.arturio.dev/dennisappiahALX) 
 
