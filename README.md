@@ -31,7 +31,7 @@ View the archives (3 posts)@ [medium.com/@dennisappiah](https://medium.com/@denn
 </p>
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dennisappiahALX&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dennisappiahALX&show_icons=true&hide_border=true&layout=compact" alt="GitHub stats" />
 </p>
 
 <!-- writing ends -->
