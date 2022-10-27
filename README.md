@@ -1,8 +1,8 @@
 ### 👋 Hi, I'm Dennis Appiah
 
-I design, build and deploy software applications, and machine learning systems for customer use cases.
+I design, and build software applications that runs under real-life production conditions.
 
-- 📝 [Write](https://medium.com/@dennisappiah) about effective data science, data/ML systems, and software engineering.
+- 📝 [Write](https://medium.com/@dennisappiah) about effective data science, and software engineering.
 - 🧠 [Storytelling](https://public.tableau.com/app/profile/dennis.appiah#!/?newProfile=&activeTab=0) - Analyse data, and build data storytelling dashboards using Tableau.
 - 🌱 [Learning](https://github.com/dennisappiahALX/100DaysOfCode) - Currently learning Data Structures and Algorithms with Java, ML Deployment with Django, and Flask.
 - 💞️ I’m looking to collaborate on End-to-end software development & Data Science projects.
