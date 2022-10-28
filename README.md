@@ -2,10 +2,9 @@
 
 I design and build software systems that run under real-life production conditions.
 
-- 📝 [Write](https://medium.com/@dennisappiah) about effective data science, and software engineering.
+- 📝 [Write](https://medium.com/@dennisappiah) about effective data systems, and software engineering.
 - 🧠 [Storytelling](https://public.tableau.com/app/profile/dennis.appiah#!/?newProfile=&activeTab=0) - Analyse data, and build data storytelling dashboards using Tableau.
 - 🌱 [Learning](https://github.com/dennisappiahALX/100DaysOfCode) - Currently learning Data Structures and Algorithms with Java.
-- 💞️ I’m looking to collaborate on End-to-end software development & Data Science projects.
 
 
 ### 📝 Recent Writing
