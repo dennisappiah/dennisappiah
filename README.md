@@ -3,8 +3,7 @@
 I design and build software systems that run under real-life production conditions.
 
 - 📝 [Write](https://medium.com/@dennisappiah) about effective data systems, and software engineering.
-- 🌱 [Learning](https://github.com/dennisappiahALX/100DaysOfCode) - Currently learning Data Structures and Algorithms with Java.
-
+<!-- - 🌱 [Learning](https://github.com/dennisappiahALX/100DaysOfCode) - Currently learning Data Structures and Algorithms with Java. -->
 
 ### 📝 Recent Writing
 
@@ -18,11 +17,11 @@ View the archives (3 posts)@ [medium.com/@dennisappiah](https://medium.com/@denn
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-<!--   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> -->
-  <img alt="Java" src= "https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  <img alt="SpringBoot" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<!--   <img alt="Java" src= "https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img alt="SpringBoot" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> -->
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
