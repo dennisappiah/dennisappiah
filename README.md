@@ -22,9 +22,9 @@ View the archives (3 posts)@ [medium.com/@dennisappiah](https://medium.com/@denn
 <!--    <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" /> -->
 </p>
 
-<p>
+<!-- <p>
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=dennisappiahALX&show_icons=true&hide_border&layout=compact" />
-</p>
+</p> -->
 
 <!-- writing ends -->
 ---
