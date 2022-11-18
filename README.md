@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Dennis Appiah
 
-I design and build software systems that run under real-life production conditions.
+I design and build software that run under real-life production conditions.
 
 - 📝 [Writes](https://medium.com/@dennisappiah) about effective data systems, and software engineering.
 <!-- - 🌱 [Learning](https://github.com/dennisappiahALX/100DaysOfCode) - Currently learning Data Structures and Algorithms with Java. -->
