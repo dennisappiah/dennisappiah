@@ -11,9 +11,8 @@ I design and build software that run under real-life production conditions.
 * [Asynchronicity Implementation in Java.](https://medium.com/@dennisappiah/asynchronicity-implementation-in-java-part-1-4690398aa424) - Friday, 18 Nov 2022
 * [Key Players in Data Ecosystem](https://medium.com/@dennisappiah/key-players-in-data-ecosystem-e6dc574004b) - Saturday, 27 Aug 2022
 * [Principles for Organizing API Endpoints](https://medium.com/@dennisappiah/principles-for-organizing-api-endpoints-895b6e5efe3) - Wed, 17 Aug 2022
-* [Creating Virtual Environments in Python](https://medium.com/p/257ec7e7f434) - Fri, 05 Aug 2022
 
-View the archives (3 posts)@ [medium.com/@dennisappiah](https://medium.com/@dennisappiah)
+View the archives (4 posts)@ [medium.com/@dennisappiah](https://medium.com/@dennisappiah)
 
 <!-- writing ends -->
 ---
