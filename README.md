@@ -2,7 +2,7 @@
 
 I design and build software that run under real-life production conditions.
 
-- 📝 [Writes](https://medium.com/@dennisappiah) about effective data systems, and software engineering.
+- 📝 [Writes](https://medium.com/@dennisappiah) about effective data systems, and software development.
 - 💻 [Building](https://github.com/dennisappiahALX/bookify_v2.git) - Currently building Bookify_v2
 
 ### 📝 Recent Writing
