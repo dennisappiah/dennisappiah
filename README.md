@@ -3,7 +3,7 @@
 I design and build software that run under real-life production conditions.
 
 - 📝 [Writes](https://medium.com/@dennisappiah) about effective data systems, and software development.
-- 🌱 I'm learning (in 2023): System Design, best practices for backend engineering with Spring Boot, and Java.
+- 🌱 I'm learning (in 2023): System Design & Data Structures with Java, Best practices for backend engineering with Spring Boot.
 <!-- - 💻 [Building]() - Currently building my personal blogging site -->
 ### 📝 Recent Writing
 
