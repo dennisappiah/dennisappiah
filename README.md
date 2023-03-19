@@ -14,9 +14,6 @@ I design and build software that run under real-life production conditions.
 
 View the archives (4 posts)@ [medium.com/@dennisappiah](https://medium.com/@dennisappiah)
 
---- 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dennisappiahALX&show_icons=true&include_all_commits=true&hide_border=true" alt="Dennis' GitHub stats" />
-
 <!-- writing ends -->
 --- 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dennisapiah?label=Follow&style=social)](https://twitter.com/dennisapiah)
