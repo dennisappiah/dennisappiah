@@ -13,6 +13,7 @@ I design and build software that run under real-life production conditions.
 * [Principles for Organizing API Endpoints](https://medium.com/@dennisappiah/principles-for-organizing-api-endpoints-895b6e5efe3) - Wed, 17 Aug 2022
 
 View the archives (4 posts)@ [medium.com/@dennisappiah](https://medium.com/@dennisappiah)
+--- 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dennisappiahALX&show_icons=true&include_all_commits=true&hide_border=true" alt="Dennis' GitHub stats" />
 
 <!-- writing ends -->
