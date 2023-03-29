@@ -14,10 +14,8 @@ I design and build software that run under real-life production conditions.
 * [Principles for Organizing API Endpoints](https://medium.com/@dennisappiah/principles-for-organizing-api-endpoints-895b6e5efe3) - Wed, 17 Aug 2022
 
 <div align="left">
-<p>
-  <span>View the archives (4 posts)@[medium.com/@dennisappiah](https://medium.com/@dennisappiah)</span>
-</p>
-
+  View the archives (4 posts)@[medium.com/@dennisappiah](https://medium.com/@dennisappiah)
+<br/>
 <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=dennisappiahALX&show_icons=true&include_all_commits=true&hide_border=true"/>
   
 <!-- <a href="https://github.com/anuraghazra/convoychat">
