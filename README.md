@@ -27,9 +27,8 @@ View the archives (4 posts)@[medium.com/@dennisappiah](https://medium.com/@denni
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p> -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=dennisappiahALX&show_icons=true&theme=jolly&layout=compact" />
-</a>
+<img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=dennisappiahALX&show_icons=true&include_all_commits=true&hide_border=true"/>
+  
 <!-- <a href="https://github.com/anuraghazra/convoychat">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennisappiahALX&langs_count=8&theme=jolly&layout=compact" />
 </a> -->
