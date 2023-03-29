@@ -14,7 +14,7 @@ I design and build software that run under real-life production conditions.
 * [Principles for Organizing API Endpoints](https://medium.com/@dennisappiah/principles-for-organizing-api-endpoints-895b6e5efe3) - Wed, 17 Aug 2022
 
 View the archives (4 posts)@[medium.com/@dennisappiah](https://medium.com/@dennisappiah)
-<div align="center">
+<div align="left">
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
