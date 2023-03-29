@@ -15,7 +15,7 @@ I design and build software that run under real-life production conditions.
 
 View the archives (4 posts)@[medium.com/@dennisappiah](https://medium.com/@dennisappiah)
 <div align="left">
-<p>
+<!-- <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
@@ -25,7 +25,7 @@ View the archives (4 posts)@[medium.com/@dennisappiah](https://medium.com/@denni
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
+</p> -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=dennisappiahALX&show_icons=true&theme=jolly&layout=compact" />
