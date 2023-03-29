@@ -13,14 +13,9 @@ I design and build software that run under real-life production conditions.
 * [Key Players in Data Ecosystem](https://medium.com/@dennisappiah/key-players-in-data-ecosystem-e6dc574004b) - Saturday, 27 Aug 2022
 * [Principles for Organizing API Endpoints](https://medium.com/@dennisappiah/principles-for-organizing-api-endpoints-895b6e5efe3) - Wed, 17 Aug 2022
 
+ View the archives (4 posts)@[medium.com/@dennisappiah](https://medium.com/@dennisappiah)
 <div align="left">
-  View the archives (4 posts)@[medium.com/@dennisappiah](https://medium.com/@dennisappiah)
-<br/>
 <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=dennisappiahALX&show_icons=true&include_all_commits=true&hide_border=true"/>
-  
-<!-- <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennisappiahALX&langs_count=8&theme=jolly&layout=compact" />
-</a> -->
 </div>
 
 <!-- writing ends -->
