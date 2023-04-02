@@ -13,6 +13,69 @@ I design and build software that run under real-life production conditions.
 * [Key Players in Data Ecosystem](https://medium.com/@dennisappiah/key-players-in-data-ecosystem-e6dc574004b) - Saturday, 27 Aug 2022
 
  View the archives (5 posts)@[medium.com/@dennisappiah](https://medium.com/@dennisappiah)
+<h3 align="left">Languages and Frameworks:</h3>
+<p align="left">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python"
+            width="40"
+            height="40"
+        />
+    </a>
+     <a
+        href="https://www.typescriptlang.org/"
+        target="_blank"
+        rel="noreferrer"
+    >
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+            alt="javascript"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+            alt="java"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"
+            alt="spring"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+            alt="express"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+            alt="mongodb"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+            alt="mysql"
+            width="40"
+            height="40"
+        />
+    </a>
+</p>
 <div align="left">
 <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=dennisappiahALX&show_icons=true&include_all_commits=true&hide_border=true"/>
 </div>
