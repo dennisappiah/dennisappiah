@@ -59,6 +59,14 @@ I design and build software that run under real-life production conditions.
             height="40"
         />
     </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+         <img
+             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+             alt="express"
+             width="40"
+             height="40"
+         />
+     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
