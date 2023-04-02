@@ -13,7 +13,7 @@ I design and build software that run under real-life production conditions.
 * [Key Players in Data Ecosystem](https://medium.com/@dennisappiah/key-players-in-data-ecosystem-e6dc574004b) - Saturday, 27 Aug 2022
 
  View the archives (5 posts)@[medium.com/@dennisappiah](https://medium.com/@dennisappiah)
-<h3 align="left">Languages and Frameworks</h3>
+<h3 align="left">Languages & Frameworks</h3>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img
