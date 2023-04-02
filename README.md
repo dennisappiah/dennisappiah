@@ -83,6 +83,14 @@ I design and build software that run under real-life production conditions.
             height="40"
         />
     </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+            alt="mongodb"
+            width="40"
+            height="40"
+        />
+  </a>
 </p>
 <div align="left">
 <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=dennisappiahALX&show_icons=true&include_all_commits=true&hide_border=true"/>
