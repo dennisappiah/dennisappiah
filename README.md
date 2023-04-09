@@ -3,7 +3,7 @@
 I design and build software that run under real-life production conditions.
 
 - 📝 [Writes](https://medium.com/@dennisappiah) about effective data systems, and software development.
-- 🌱 I'm learning (in 2023): DevOps, and effective backend engineering with Java & Python.
+- 🌱 I'm learning (in 2023): DevOps, and effective backend engineering with Java.
 <!-- - 💻 [Building]() - Currently building my personal blogging site -->
 ### 📝 Recent Writing
 
