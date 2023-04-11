@@ -62,7 +62,15 @@ I design and build software that run under real-life production conditions.
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
          <img
              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-             alt="express"
+             alt="react"
+             width="40"
+             height="40"
+         />
+     </a>
+ <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+         <img
+             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
+             alt="nextjs"
              width="40"
              height="40"
          />
