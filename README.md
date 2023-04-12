@@ -101,7 +101,7 @@ I design and build software that run under real-life production conditions.
   </a>
 </p>
 <div align="left">
-<img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=dennisappiahALX&show_icons=true&include_all_commits=true&hide_border=true"/>
+<img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=dennisappiah&show_icons=true&include_all_commits=true&hide_border=true"/>
 </div>
 
 <!-- writing ends -->
