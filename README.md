@@ -3,7 +3,7 @@
 I design and build software that run under real-life production conditions.
 
 - 📝 [Writes](https://medium.com/@dennisappiah) about effective data systems, and software development.
-- 🌱 I'm learning (in 2023): DevOps and Effective backend engineering with Java
+- 🌱 I'm learning (in 2023): DevOps Engineering, Continuous integration, and Continuous Deployment strategies
 <!-- - 💻 [Building]() - Currently building my personal blogging site -->
 ### 📝 Recent Writing
 
@@ -43,10 +43,10 @@ I design and build software that run under real-life production conditions.
             height="40"
         />
     </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"
-            alt="spring"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"
+            alt="django"
             width="40"
             height="40"
         />
