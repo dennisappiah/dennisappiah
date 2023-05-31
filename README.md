@@ -3,8 +3,7 @@
 I design and build software that run under real-life production conditions.
 
 - 📝 [Writes](https://medium.com/@dennisappiah) about effective data systems, and software development.
-- 🌱 I'm learning (in 2023) : Java, DevOps, CI & CD strategies
-<!-- - 💻 [Building]() - Currently building my personal blogging site -->
+- 🌱 I'm currently learning : Java, SpringBoot & Unit Testing
 ### 📝 Recent Writing
 
 <!-- writing starts -->
