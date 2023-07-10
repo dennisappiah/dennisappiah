@@ -3,7 +3,7 @@
 I design and build software that run under real-life production conditions.
 
 - 📝 [Writes](https://medium.com/@dennisappiah) about effective data systems, and software development.
-- 🌱 I'm currently learning : Java, SpringBoot & Unit Testing
+- 🌱 I'm currently learning : Java, SpringBoot, Angular & Unit Testing
 ### 📝 Recent Writing
 
 <!-- writing starts -->
