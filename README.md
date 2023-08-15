@@ -17,4 +17,4 @@ I design and build software that run under real-life production conditions.
 --- 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dennisapiah?label=Follow&style=social)](https://twitter.com/dennisapiah)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dennisappiah)
-![Profile Views](https://gpvc.arturio.dev/dennisappiahALX)
+![Profile Views](https://gpvc.arturio.dev/dennisappiah)
