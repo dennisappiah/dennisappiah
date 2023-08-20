@@ -8,8 +8,8 @@ I love to build software that run under real-life production conditions.
 
 <!-- writing starts - 🌱 I'm currently learning : Golang, & AWS-->
 * [The Big Picture - Token-Based Authentications in RESTful APIs](https://medium.com/@dennisappiah/the-big-picture-token-based-authentications-in-restful-apis-1dfe97c28bee) - Friday, 24 March 2023
-* [Asynchronous Implementation in Java.](https://medium.com/@dennisappiah/asynchronicity-implementation-in-java-part-1-4690398aa424) - Friday, 18 Nov 2022
 * [Key Players in Data Ecosystem](https://medium.com/@dennisappiah/key-players-in-data-ecosystem-e6dc574004b) - Saturday, 27 Aug 2022
+* [Principles for Organising API EndPoints](https://medium.com/@dennisappiah/principles-for-organizing-api-endpoints-895b6e5efe3) - Monday, 17 Aug 2022
 
  View the archives (5 posts)@[medium.com/@dennisappiah](https://medium.com/@dennisappiah)
 
