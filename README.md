@@ -3,7 +3,7 @@
 I am interested in backend, data, and machine learning
 
 - 📝 [Writes](https://medium.com/@dennisappiah) about effective data systems, and software development.
-- 🌱 I'm currently learning Golang, Containerization, and AWS
+- 🌱 I'm currently learning Java, Containerization, and AWS
 
 ### 📝 Recent Writing
 
