@@ -1,5 +1,4 @@
 ### 👋 Hi, I'm Dennis Appiah
-
 I am interested in backend, data, and machine learning
 
 - 📝 [Writes](https://medium.com/@dennisappiah) about effective data systems, and software development.
