@@ -2,7 +2,7 @@
 I am interested in backend, data, and machine learning
 
 - 📝 [Writes](https://medium.com/@GuidesPython) about effective python, backend development, and ML @PythonGuides
-- 🌱 I'm currently learning Containerization, and AWS
+- 🌱 I'm currently learning Java, Containerization, and AWS
 
 ### 📝 Recent Writing
 * [Effectively Implement Logging in Django REST API Applications](https://medium.com/@GuidesPython/effectively-implement-logging-in-django-rest-api-applications-caa985a719bf) - Saturday, 17 Sept 2022
