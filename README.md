@@ -15,6 +15,7 @@ I am interested in backend, data, and machine learning
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
 </div>
+
 --- 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dennisapiah?label=Follow&style=social)](https://twitter.com/dennisapiah)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dennisappiah)
