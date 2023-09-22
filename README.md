@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Dennis Appiah
 I am interested in backend, data, and machine learning
-- 📝 [Writes](https://medium.com/@GuidesPython) about effective python, backend development, and ML @PythonGuides
+- 📝 [Writes](https://medium.com/@GuidesPython) about python, backend development, and ML @PythonGuides
 - 🌱 I'm currently learning DevOps, and AWS
 
 ### 📝 Recent Writing
