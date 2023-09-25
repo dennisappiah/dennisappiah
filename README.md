@@ -17,4 +17,4 @@ I am interested in backend, data, and machine learning
 
 --- 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dennisapiah?label=Follow&style=social)](https://twitter.com/dennisapiah)
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+[![Linkedin Badge](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)](https://www.linkedin.com/in/dennisappiah)
