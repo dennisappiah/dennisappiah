@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Dennis Appiah
-I am interested in backend, data, and machine learning
+- I currently work as a Software Engineer.
 - 📝 [Writes](https://medium.com/@GuidesPython) about python, software development, and ML @PythonGuides
-- 🌱 I'm currently learning Golang, DevOps, Cloud Technologies
+- 🌱 I'm currently exploring Golang, DevOps, and Cloud Technologies
 
 ### Languages and Tools  
 <div align="left">
