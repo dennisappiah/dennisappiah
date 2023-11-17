@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Dennis Appiah
 - I currently work as a Software Engineer.
 - 📝 [Writes](https://medium.com/@GuidesPython) about python, software development, and ML @PythonGuides
-- 🌱 I'm currently exploring Golang, Linux🐧, and AWS♾
+- 🌱 I'm currently exploring Golang, Linux🐧, DevOps♾, and AWS
 
 ### Languages and Tools  
 <div align="left">
