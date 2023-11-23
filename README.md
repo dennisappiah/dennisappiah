@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Dennis Appiah
 - I currently work as a Software Engineer.
-- 📝 [Writes](https://medium.com/@GuidesPython) about python, software development, and data systems 
+- 📝 [Writes](https://medium.com/@GuidesCode) about python, software engineering, and data systems 
 - 🌱 I'm currently exploring Linux🐧, DevOps♾, and AWS
 
 ### Languages and Tools  
