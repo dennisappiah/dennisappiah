@@ -1,17 +1,16 @@
-### 👋 Hi, I'm Dennis Appiah
-- I currently work as a Software Engineer.
-- 📝 [Writes](https://medium.com/@GuidesCode) about python, software engineering, and data systems 
-- 🌱 I'm currently exploring Linux🐧, DevOps♾, and AWS
+## Hi there, I'm Dennis 👋
 
-### Languages and Tools  
-<div align="left">
- <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
- <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a> 
+### 💻 Software Engineer
+
+- 🌱 I'm currently exploring Linux🐧, DevOps♾, and AWS
+- 💬 Ask me about C, Java, Go or Python.
+- ⚡ Fun fact: I write about software engineering, and personal growth on my [medium](https://medium.com/@dennisappiah)!
+
+<hr />
+
+### Stats
+
+<div>
+ <img height="200em" src="https://github-readme-stats.vercel.app/api?username=dennisappiah&layout=compact&show_icons=true&theme=dark" />
+ <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennisappiah88&layout=compact&langs_count=8&theme=dark&hide=css,scss,html,tex,makefile,ShaderLab,HLSL" />
 </div>
-  
---- 
-[![Twitter Follow](https://img.shields.io/twitter/follow/dennisapiah?label=Follow&style=social)](https://twitter.com/dennisapiah)
-[![Profile Views](https://komarev.com/ghpvc/?username=dennisappiah&&style=flat-square)](https://komarev.com/ghpvc/?username=dennisappiah)
