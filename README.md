@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently exploring Linux🐧, DevOps♾, and AWS
 - 💬 Ask me about Go, Python, Java or TypeScript.
-- ⚡ Fun fact: I write about software engineering, and personal growth on my [medium](https://medium.com/@dennisappiah)!
+- ⚡ Fun fact: I write about software engineering, and personal growth on my [medium](https://medium.com/@dennisappiah) page
 
 <hr />
 
