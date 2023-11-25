@@ -3,7 +3,7 @@
 ### 💻 Software Engineer
 
 - 🌱 I'm currently exploring Linux🐧, DevOps♾, and AWS
-- 💬 Ask me about C, Java, Go or Python.
+- 💬 Ask me about Go, Python, Java or TypeScript.
 - ⚡ Fun fact: I write about software engineering, and personal growth on my [medium](https://medium.com/@dennisappiah)!
 
 <hr />
