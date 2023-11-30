@@ -2,7 +2,7 @@
 
 ### 💻 Software Engineer
 
-- 🌱 I'm currently exploring Linux🐧, DevOps♾, and AWS
+- 🌱 I'm currently exploring Linux🐧, DevOps♾
 - 🚀 Toolbox: Python , TypeScript / JavaScript
 - ⚡ Fun fact: I write about software engineering, and personal growth on my [medium](https://medium.com/@dennisappiah) page
 
