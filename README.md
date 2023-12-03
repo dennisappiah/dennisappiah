@@ -2,8 +2,8 @@
 
 ### 💻 Software Engineer
 
-- 🌱 I'm currently exploring C#, Linux🐧, DevOps♾
-- 🚀 Toolbox: Python , TypeScript
+- 🌱 I'm currently exploring Linux🐧, Azure DevOps♾
+- 🚀 Toolbox: C#, Python , TypeScript
 - 🔒 Backend: ASP.NET , Express.js, Flask, Django REST framework
 - 👨🏽‍💻 Client:  React.js , Next.js 
 - ⚡ Fun fact: I write about software engineering, and personal growth on my [medium](https://medium.com/@dennisappiah) page
