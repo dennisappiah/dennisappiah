@@ -2,7 +2,7 @@
 
 ### 💻 Software Engineer
 
-- 🌱 I'm currently exploring Linux🐧, Azure DevOps♾
+- 🌱 I'm currently exploring Linux🐧, DevOps♾
 - 🚀 Toolbox: C#, Python , TypeScript
 - 🔒 Backend: ASP.NET , Express.js, Flask, Django REST framework
 - 👨🏽‍💻 Client:  React.js , Next.js 
