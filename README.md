@@ -5,7 +5,7 @@
 - 🌱 I'm currently exploring Linux🐧, DevOps♾
 - 🚀 Toolbox: C#, Python , TypeScript
 - 🔒 Backend: ASP.NET , Express.js, Flask, Django REST framework
-- 👨🏽‍💻 Client:  React.js , Next.js 
+- 👨🏽‍💻 Client:  React , Next.js 
 - ⚡ Fun fact: I write about software engineering, and personal growth on my [medium](https://medium.com/@dennisappiah) page
 
 <hr />
