@@ -3,7 +3,7 @@
 ### 💻 Software Engineer
 
 - 🌱 I'm currently exploring Linux🐧, DevOps♾
-- 🚀 Toolbox: Python , TypeScript
+- 🚀 Toolbox: Python , Java, TypeScript
 - ⚡ Fun fact: I write about software engineering, and personal growth on my [medium](https://medium.com/@dennisappiah) page
 
 <hr />
