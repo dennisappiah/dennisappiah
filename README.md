@@ -5,7 +5,9 @@
 - 🌱 I'm currently exploring Linux🐧, DevOps♾
 - 🚀 Toolbox: Python, TypeScript
 - ⚡ Fun fact: I write about software engineering, and personal growth on my [medium](https://medium.com/@dennisappiah) page
-
+<div align="center">  
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
+</div>
 <hr />
 
 ### Stats
