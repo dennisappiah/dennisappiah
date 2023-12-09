@@ -2,7 +2,7 @@
 
 ### 💻 Software Engineer
 
-- 🌱 I'm currently learning Data Structures & Algorithms with Java ☕, Linux🐧, DevOps♾
+- 🌱 I'm currently learning DSA with Java ☕, Linux🐧, DevOps♾
 - 🚀 Toolbox: Java, Python, TypeScript
 - ⚡ Fun fact: I write about software engineering, and personal growth on my [medium](https://medium.com/@dennisappiah) page
 <div align="center">  
