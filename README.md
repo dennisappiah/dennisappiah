@@ -4,6 +4,8 @@
 
 - 🌱 I'm currently learning DSA with Java ☕, Linux🐧, DevOps♾
 - 🚀 Toolbox: Java, Python, TypeScript
+- 🔒 Backend: Spring & Spring Boot, Django Rest Framework, Express.Js
+- 👨🏾‍💻 Client: React, Next.js
 - ⚡ Fun fact: I write about software engineering, and personal growth on my [medium](https://medium.com/@dennisappiah) page
 <div align="center">  
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
