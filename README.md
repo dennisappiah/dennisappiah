@@ -3,7 +3,7 @@
 ### 💻 Software Engineer
 
 - 🌱 I'm currently learning DSA with Java ☕, Linux🐧, AWS DevOps♾
-- 🚀 Toolbox: Java, Go, Python, TypeScript
+- 🚀 Toolbox: Java, Python, TypeScript
 - 🔒 Backend: Spring & Spring Boot, Django REST Framework, Express.js
 - 👨🏾‍💻 Client: React, Next.js
 - ⚡ Fun fact: I write about software engineering, and personal growth on my [medium](https://medium.com/@dennisappiah) page
