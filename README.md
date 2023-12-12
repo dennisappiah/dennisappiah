@@ -2,7 +2,7 @@
 
 ### 💻 Software Engineer
 
-- 🌱 I'm currently learning DSA with Java ☕, Linux🐧, DevOps♾
+- 🌱 I'm currently learning DSA with Java ☕, Linux🐧, AWS DevOps♾
 - 🚀 Toolbox: Java, Python, TypeScript
 - 🔒 Backend: Spring & Spring Boot, Django REST Framework, Express.js
 - 👨🏾‍💻 Client: React, Next.js
