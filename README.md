@@ -2,7 +2,7 @@
 
 ### 💻 Software Engineer
 
-- 🌱 I'm currently Linux🐧, DevOps♾
+- 🌱 I'm currently exploring Linux🐧, DevOps♾
 - 🚀 Toolbox: Python, TypeScript
 - 🔒 Backend: Django REST Framework, Express.js
 - 👨🏾‍💻 Client: React, Next.js
