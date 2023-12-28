@@ -2,7 +2,7 @@
 
 ### 💻 Software Engineer
 
-- 🌱 I'm currently learning DevOps♾
+- 🌱 I'm currently learning Azure DevOps♾
 - 🚀 Toolbox: C#, Python, TypeScript
 - ⚡ Fun fact: I write about software engineering, and personal growth on my [medium](https://medium.com/@dennisappiah) page
 <div align="center">  
