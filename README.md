@@ -2,8 +2,8 @@
 
 ### 💻 Software Engineer
 
-- 🌱 I'm currently learning Linux, Docker with .NET, and Azure ♾
-- 🚀 Toolbox: C#, Python
+- 🌱 I'm currently learning Go, Docker with .NET, and Azure ♾
+- 🚀 Toolbox: C#, Go, Python
 - ⚡ Fun fact: I write about software engineering, and personal growth on my [medium](https://medium.com/@dennisappiah) page
 <div align="center">  
  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>
