@@ -2,7 +2,7 @@
 
 ### 💻 Software Engineer
 
-- 🌱 I'm currently exploring Linux and Azure ♾
+- 🌱 I'm currently learning Docker with .NET, and Azure ♾
 - 🚀 Toolbox: C#, Go, Python
 - ⚡ Fun fact: I write about software engineering, and personal growth on my [medium](https://medium.com/@dennisappiah) page
 <div align="center">  
