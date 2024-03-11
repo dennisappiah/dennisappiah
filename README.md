@@ -3,7 +3,7 @@
 ### 💻 Software Developer
 
 - 🌱 I’m interested in fullstack systems, DevOps and everything Tech😄.
-- 💬 ToolBox: Python, Golang, Java
+- 💬 ToolBox: Python, C#, Java
 
 
 
