@@ -4,7 +4,7 @@
 
 - 🌱 I’m interested in fullstack systems, DevOps and everything Tech😄.
 - 💬 Backend: Java, Python, Golang
-- 🚀 Frontend: React, NextJs
+- 🚀 Frontend: React, NextJs, TypeScript
 
 
 <div align="center">  
