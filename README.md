@@ -3,7 +3,7 @@
 ### 💻 Software Developer
 
 - 🌱 I’m interested in fullstack systems, DevOps and everything Tech😄.
-- 💬 Backend: Python, C#, Java
+- 💬 Backend: Java, Python, Golang
 - 🚀 Frontend: React, NextJs
 
 
