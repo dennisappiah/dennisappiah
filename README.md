@@ -1,2 +1,2 @@
-## Hi there, I'm Dennis 👋
+## Hi, I'm Dennis 👋
 
