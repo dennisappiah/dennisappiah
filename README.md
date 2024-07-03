@@ -2,7 +2,7 @@
 
 ### 💻 Full-stack developer
 
-- 🌱 I’m currently learning DevOps.
+- 🌱 My goal is to build scalable and efficient software while providing engaging and flawless user experiences.
 - 💬 Ask me about Python, Java, TypeScript or JavaScript.
 - ⚡ Fun fact: I like to write about software engineering 
 
