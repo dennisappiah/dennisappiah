@@ -2,7 +2,7 @@
 
 ### 💻 Full-stack developer
 
-- 🌱 I’m currently learning AWS and DevOps.
+- 🌱 I’m currently learning DevOps.
 - 💬 Ask me about Python, Java, TypeScript or JavaScript.
 - ⚡ Fun fact: I like to write about software engineering 
 
