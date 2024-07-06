@@ -1,6 +1,6 @@
 ## Hi there, I'm Dennis 👋
 
-### 💻 Full-stack developer
+### 💻 Software Engineer
 
 - 🌱 My goal is to build scalable and efficient systems while providing engaging and flawless user experiences.
 - 💬 Ask me about Python, Java, TypeScript or JavaScript.
