@@ -2,7 +2,7 @@
 
 ### 💻 Software Engineer
 
-- 🌱 My goal is to build scalable and efficient systems while providing engaging and flawless user experiences.
+- 🌱 I am interested in frontend, backend systems and infrastructure.
 - 💬 Ask me about Python, Java, TypeScript or JavaScript.
 - ⚡ Fun fact: I like to write about software engineering 
 
