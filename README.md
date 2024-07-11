@@ -2,7 +2,7 @@
 
 ### 💻 Software Engineer
 
-- 🌱 I am passionate about frontend engineering, backend systems and cloud infrastructure.
+- 🌱 I am passionate about full-stack systems and cloud infrastructure.
 - 💬 Ask me about Python, Java, TypeScript or JavaScript.
 - ⚡ Fun fact: I like to write about software engineering 
 
