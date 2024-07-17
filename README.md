@@ -19,14 +19,14 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a> 
  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<hr />
+<!-- <hr />
 
 ### Stats
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dennisappiah&layout=compact&show_icons=true&theme=dark" />
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennisappiah&layout=compact&langs_count=8&theme=dark&hide=css,scss,html,tex,makefile,ShaderLab,HLSL" />
-</div>
+</div> -->
 
 
 
