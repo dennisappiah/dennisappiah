@@ -1,4 +1,4 @@
-# Hi, Dennis here <img src="https://raw.githubusercontent.com/dennisappiah/dennisappiah/master/wave.gif" width="30px">
+# Hi, Dennis here <img src="https://raw.githubusercontent.com/Joe-Degs/Joe-Degs/master/wave.gif" width="30px">
 
 About me:
 
