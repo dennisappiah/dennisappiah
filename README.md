@@ -3,7 +3,7 @@
 About me:
 
 - I currently work as a network / systems engineer at a Port terminal
-- Interested in Linux (system and kernel), computer networks, systems programming, and distributed systems 
+- Interested in Linux, computer networks, systems programming, and the web
 
 
 ### 🔧 Technologies & Tools
