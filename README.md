@@ -2,7 +2,8 @@
 
 About me:
 
-- I like computers and love to talk about them. Mostly endulging myself in understanding Linux (system and kernel), embedded/low-level systems, computer architecture and infrastructure, computer networks, systems programming, distributed systems and any new thing that tickles my fancy.
+- I currently work as a network / systems engineer.
+- Interested in Linux (system and kernel), computer networks, systems programming, and distributed systems 
 
 
 ### 🔧 Technologies & Tools
@@ -16,7 +17,7 @@ About me:
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Qemu-informational?style=flat&logo=qemu&logoColor=white&color=2bbc8a)
+
 
 
 ### Find me around the web:
