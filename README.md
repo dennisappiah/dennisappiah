@@ -22,7 +22,7 @@ About me:
 
 ### Find me around the web:
 - Send me a mail - <a href="denappiahh@gmail.com">denappiahh@gmail.com</a>
-- Let's connect on <a href="https://www.linkedin.com/in/denappiahh/"> LinkedIn</a>
+- Let's connect on <a href="https://www.linkedin.com/in/denappiahh"> LinkedIn</a>
 - Or on [Twitter](https://twitter.com/denappiahh)
 
 
